@@ -1,0 +1,9 @@
+D:\projects\msvs\SPaD CW\Cryptos\bin\Release\Cryptos.exe.config
+D:\projects\msvs\SPaD CW\Cryptos\bin\Release\Cryptos.exe
+D:\projects\msvs\SPaD CW\Cryptos\bin\Release\Cryptos.pdb
+D:\projects\msvs\SPaD CW\Cryptos\obj\Release\Cipher.CryptosForm.resources
+D:\projects\msvs\SPaD CW\Cryptos\obj\Release\Cipher.Properties.Resources.resources
+D:\projects\msvs\SPaD CW\Cryptos\obj\Release\Cryptos.csproj.GenerateResource.Cache
+D:\projects\msvs\SPaD CW\Cryptos\obj\Release\Cryptos.exe
+D:\projects\msvs\SPaD CW\Cryptos\obj\Release\Cryptos.pdb
+D:\projects\msvs\SPaD CW\Cryptos\obj\Release\Cryptos.csprojResolveAssemblyReference.cache
